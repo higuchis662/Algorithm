@@ -5,5 +5,5 @@ using namespace std;
 
 int main()
 {
-	cout << Factorial(4);
+	cout << Gcd(22,8);
 }
